@@ -1,0 +1,17 @@
+newmtl 3D Text material 1_85bf4ab8-16a1-46b0-81ab-c5d3300898e9
+Kd 0.906 0.910 0.875
+d 1.000
+newmtl Wood Editable 1_ccd46d2e-5f30-4058-b39d-7e7e5763af33
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd wood_Wood_009_Color_1.jpg
+newmtl 3D Text material 2_27ee4026-8fdc-493f-8cfe-abf4a4e5f74b
+Kd 0.906 0.910 0.875
+d 1.000
+newmtl Wood Editable 2_eb6b7393-df1f-4bc2-873e-a7ea612697a4
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd wood_Wood_009_Color_1.jpg
+newmtl Titanium - Glossy_8c7d7460-c77c-4e8e-bb21-cf7a277bb13f
+Kd 0.714 0.686 0.663
+d 1.000
