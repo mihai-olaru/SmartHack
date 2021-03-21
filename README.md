@@ -21,5 +21,8 @@ Just scan the QR. You don't need to install any app.
 * 3D Modeling
 * Swift (iOS specific)
 
-#### Short video presentation
+### Short Prototype presentation
 [Youtube Video](https://youtu.be/xlBglN1jdEA)
+
+### App presentation
+[Youtube Video](https://youtu.be/R4MvJOxty14)
